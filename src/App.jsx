@@ -7,7 +7,7 @@ const projects = [
     type: "React · Responsive design",
     description:
       "A responsive portfolio website created to bring skills, projects, experience, and contact information together in one place.",
-    url: "https://github.com/MS1326/Portfolio",
+    url: "https://github.com/MS1326/magesh-portfolio",
     icon: "bi-window",
     tone: "lavender",
     label: "A personal home on the web",

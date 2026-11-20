@@ -18,7 +18,7 @@ npm run build
 ## Deploy to GitHub Pages
 
 The project is configured for the repository's GitHub Pages URL:
-<https://ms1326.github.io/Portfolio/>.
+<https://ms1326.github.io/magesh-portfolio/>.
 
 1. Push the project to the `main` branch on GitHub.
 2. Publish the site (and update it after future changes) by running:
